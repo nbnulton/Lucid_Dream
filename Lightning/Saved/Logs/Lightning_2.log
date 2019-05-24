@@ -1,0 +1,1937 @@
+﻿Log file open, 05/22/19 18:13:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Lightning
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.299115
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.160s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.05.22-22.13.27:989][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.05.22-22.13.27:989][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.05.22-22.13.27:989][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Engine.ini]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Engine.ini]
+[2019.05.22-22.13.27:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Engine.ini]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Engine.ini]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.05.22-22.13.27:990][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Engine.ini]
+[2019.05.22-22.13.27:990][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Engine.ini]
+[2019.05.22-22.13.27:994][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.22-22.13.27:994][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.22-22.13.27:995][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.22-22.13.27:995][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.22-22.13.27:995][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.05.22-22.13.28:009][  0]LogHAL: Display: Platform has ~ 16 GB [17062100992 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.05.22-22.13.28:010][  0]LogInit: Going up to parent DeviceProfile []
+[2019.05.22-22.13.28:010][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.05.22-22.13.28:010][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Scalability.ini]
+[2019.05.22-22.13.28:011][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.05.22-22.13.28:011][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.05.22-22.13.28:011][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Hope/Desktop/Lightning/Saved/Config/Windows/Engine.ini]
+[2019.05.22-22.13.28:011][  0]LogInit: Computer: MSI
+[2019.05.22-22.13.28:011][  0]LogInit: User: Hope
+[2019.05.22-22.13.28:011][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.05.22-22.13.28:011][  0]LogInit: High frequency timer resolution =2.742186 MHz
+[2019.05.22-22.13.28:011][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.05.22-22.13.28:011][  0]LogMemory: Platform Memory Stats for Windows
+[2019.05.22-22.13.28:011][  0]LogMemory: Process Physical Memory: 101.55 MB used, 101.55 MB peak
+[2019.05.22-22.13.28:011][  0]LogMemory: Process Virtual Memory: 91.35 MB used, 91.35 MB peak
+[2019.05.22-22.13.28:011][  0]LogMemory: Physical Memory: 9215.15 MB used,  7056.54 MB free, 16271.69 MB total
+[2019.05.22-22.13.28:011][  0]LogMemory: Virtual Memory: 4652.77 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.05.22-22.13.28:872][  0]LogInit: Using OS detected language (en-US).
+[2019.05.22-22.13.28:872][  0]LogInit: Using OS detected locale (en-US).
+[2019.05.22-22.13.28:874][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.05.22-22.13.29:322][  0]LogStreaming: Display: Took  0.450s to InitEngineTextLocalization.
+[2019.05.22-22.13.29:323][  0]LogInit: Setting process to per monitor DPI aware
+[2019.05.22-22.13.29:350][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.05.22-22.13.29:350][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.05.22-22.13.29:596][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.22-22.13.29:596][  0]LogD3D11RHI: D3D11 adapters:
+[2019.05.22-22.13.29:653][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.05.22-22.13.29:653][  0]LogD3D11RHI:       6084/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.05.22-22.13.29:666][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.05.22-22.13.29:666][  0]LogD3D11RHI:       128/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.05.22-22.13.29:668][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.05.22-22.13.29:668][  0]LogD3D11RHI:       0/0/8135 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.05.22-22.13.29:668][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.05.22-22.13.29:700][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.05.22-22.13.29:700][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2019.05.22-22.13.29:700][  0]LogWindows: EnumDisplayDevices:
+[2019.05.22-22.13.29:700][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.05.22-22.13.29:700][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.22-22.13.29:701][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.05.22-22.13.29:701][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.22-22.13.29:701][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.22-22.13.29:701][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.22-22.13.29:702][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.05.22-22.13.29:702][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2019.05.22-22.13.29:702][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.05.22-22.13.29:702][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2019.05.22-22.13.29:702][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2019.05.22-22.13.29:702][  0]LogRHI: Texture pool is 4259 MB (70% of 6084 MB)
+[2019.05.22-22.13.29:732][  0]LogD3D11RHI: Async texture creation enabled
+[2019.05.22-22.13.29:744][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.05.22-22.13.30:117][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.05.22-22.13.30:131][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.05.22-22.13.30:146][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.05.22-22.13.30:160][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.05.22-22.13.30:174][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.05.22-22.13.30:189][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.05.22-22.13.30:202][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.05.22-22.13.30:216][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.05.22-22.13.30:224][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.05.22-22.13.30:300][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:301][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.05.22-22.13.30:302][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.05.22-22.13.30:367][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.22-22.13.30:367][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.05.22-22.13.30:392][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.22-22.13.30:392][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.05.22-22.13.30:405][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.05.22-22.13.30:419][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.05.22-22.13.30:432][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.05.22-22.13.30:445][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.05.22-22.13.30:491][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.22-22.13.30:491][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.05.22-22.13.30:491][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.05.22-22.13.30:565][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../Users/Hope/Desktop/Lightning/Intermediate/Shaders/WorkingDirectory/20452/).
+[2019.05.22-22.13.30:565][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hope/AppData/Local/Temp/UnrealShaderWorkingDir/6A0A594B49BC83091E9DA1A0CB8115FB/'.
+[2019.05.22-22.13.30:568][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.05.22-22.13.30:568][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.05.22-22.13.30:568][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.05.22-22.13.31:225][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.05.22-22.13.31:293][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/Hope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.22-22.13.31:293][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.05.22-22.13.31:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Hope/Desktop/Lightning/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.05.22-22.13.31:293][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.05.22-22.13.31:293][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Hope/Desktop/Lightning/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.22-22.13.31:293][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.05.22-22.13.31:311][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.05.22-22.13.31:312][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.05.22-22.13.31:312][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.05.22-22.13.31:327][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Hope/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.05.22-22.13.31:327][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.05.22-22.13.31:327][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.05.22-22.13.31:352][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.05.22-22.13.31:354][  0]LogSlate: Using FreeType 2.6.0
+[2019.05.22-22.13.31:355][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.05.22-22.13.31:449][  0]LogAssetRegistry: FAssetRegistry took 0.0343 seconds to start up
+[2019.05.22-22.13.31:905][  0]LogInit: Selected Device Profile: [Windows]
+[2019.05.22-22.13.32:083][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.05.22-22.13.32:090][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.05.22-22.13.32:090][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.05.22-22.13.32:090][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.05.22-22.13.32:090][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.05.22-22.13.32:111][  0]LogNetVersion: Lightning 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2497563065)
+[2019.05.22-22.13.32:826][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.159459 seconds
+[2019.05.22-22.13.32:832][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.05.22-22.13.32:832][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.05.22-22.13.32:832][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.05.22-22.13.33:922][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.05.22-22.13.33:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.05.22-22.13.34:775][  0]SourceControl: Source control is disabled
+[2019.05.22-22.13.34:775][  0]SourceControl: Source control is disabled
+[2019.05.22-22.13.34:776][  0]SourceControl: Source control is disabled
+[2019.05.22-22.13.34:777][  0]SourceControl: Source control is disabled
+[2019.05.22-22.13.34:955][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.05.22-22.13.35:178][  0]LogOcInput: OculusInput pre-init called
+[2019.05.22-22.13.35:322][  0]LogEngine: Initializing Engine...
+[2019.05.22-22.13.35:322][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.05.22-22.13.35:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.22-22.13.35:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.22-22.13.35:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.22-22.13.35:324][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.22-22.13.35:588][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.05.22-22.13.35:608][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.05.22-22.13.35:714][  0]LogInit: XAudio2 using 'Speakers (3- Wireless Stereo Headset)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.05.22-22.13.35:742][  0]LogInit: FAudioDevice initialized.
+[2019.05.22-22.13.35:742][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.05.22-22.13.35:848][  0]LogDerivedDataCache: Saved boot cache 0.11s 71MB C:/Users/Hope/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.05.22-22.13.35:851][  0]LogInit: Texture streaming: Enabled
+[2019.05.22-22.13.35:877][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.05.22-22.13.35:898][  0]LogInit: Transaction tracking system initialized
+[2019.05.22-22.13.35:928][  0]BlueprintLog: New page: Editor Load
+[2019.05.22-22.13.36:034][  0]LocalizationService: Localization service is disabled
+[2019.05.22-22.13.36:602][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hope/Desktop/Lightning/Content/' took 0.02s
+[2019.05.22-22.13.36:602][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.05.22-22.13.36:602][  0]LogCook: Display: Mobile HDR setting 1
+[2019.05.22-22.13.36:602][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.05.22-22.13.36:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.05.22-22.13.36:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.05.22-22.13.36:602][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.05.22-22.13.36:603][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.05.22-22.13.36:769][  0]SourceControl: Source control is disabled
+[2019.05.22-22.13.36:769][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Hope/Desktop/Lightning/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.22-22.13.36:770][  0]LightingResults: New page: Lighting Build
+[2019.05.22-22.13.36:774][  0]MapCheck: New page: Map Check
+[2019.05.22-22.13.36:774][  0]LightingResults: New page: Lighting Build
+[2019.05.22-22.13.37:814][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.05.22-22.13.37:828][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.22-22.13.37:852][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.22-22.13.37:853][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.245ms to complete.
+[2019.05.22-22.13.37:853][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.082
+[2019.05.22-22.13.37:960][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-22.13.37:972][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-22.13.37:980][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-22.13.37:988][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.05.22-22.13.37:997][  0]LogCollectionManager: Loaded 0 collections in 0.002964 seconds
+[2019.05.22-22.13.38:014][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hope/Desktop/Lightning/Saved/Collections/' took 0.01s
+[2019.05.22-22.13.38:014][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hope/Desktop/Lightning/Content/Developers/Hope/Collections/' took 0.00s
+[2019.05.22-22.13.38:014][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Hope/Desktop/Lightning/Content/Collections/' took 0.00s
+[2019.05.22-22.13.38:014][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.05.22-22.13.38:025][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2651 classes and 620 folders.
+[2019.05.22-22.13.38:034][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.05.22-22.13.38:036][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:038][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:039][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:041][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:042][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:043][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:044][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:045][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:046][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:047][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:048][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:049][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:050][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.05.22-22.13.38:097][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.05.22-22.13.38:103][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.05.22-22.13.38:121][  0]LogSlate: Took 0.000595 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.05.22-22.13.38:125][  0]LogSlate: Took 0.000496 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.05.22-22.13.38:133][  0]LogSlate: Took 0.000432 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.05.22-22.13.38:242][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2019.05.22-22.13.38:404][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.05.22-22.13.38:404][  0]LogLoad: (Engine Initialization) Total time: 12.58 seconds
+[2019.05.22-22.13.38:404][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.05.22-22.13.38:478][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.05.22-22.13.38:501][  0]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.22-22.13.38:628][  2]LogAssetRegistry: Asset discovery search completed in 7.2018 seconds
+[2019.05.22-22.13.38:629][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.05.22-22.13.38:629][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000103 seconds (updated 0 objects)
+[2019.05.22-22.13.50:760][266]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.22-22.28.42:996][339]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.22-22.28.43:014][339]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.05.22-22.28.43:751][339]LogAIModule: Creating AISystem for world Lightning
+[2019.05.22-22.28.43:762][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightning" FILE="../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.22-22.28.43:973][339]LogSavePackage: Moving '../../../../../../Users/Hope/Desktop/Lightning/Saved/Lightning5CAABBCD4AD54EDB5DE373B55CE69826.tmp' to '../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning.umap'
+[2019.05.22-22.28.43:992][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightning_BuiltData" FILE="../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning_BuiltData.uasset" SILENT=true
+[2019.05.22-22.28.44:154][339]LogSavePackage: Moving '../../../../../../Users/Hope/Desktop/Lightning/Saved/Lightning_BuiltDataED697F4B49459BB22F9707A39CBE0930.tmp' to '../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning_BuiltData.uasset'
+[2019.05.22-22.28.44:164][339]LogFileHelpers: Saving map 'Lightning' took 1.161
+[2019.05.22-22.28.44:165][339]Cmd: MAP LOAD FILE="../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.05.22-22.28.44:188][339]LightingResults: New page: Lighting Build
+[2019.05.22-22.28.44:189][339]LoadErrors: New page: Loading map: Lightning.umap
+[2019.05.22-22.28.44:191][339]MapCheck: New page: Map Check
+[2019.05.22-22.28.44:191][339]LightingResults: New page: Lighting Build
+[2019.05.22-22.28.44:246][339]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.05.22-22.28.44:303][339]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.05.22-22.28.44:303][339]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.145ms to complete.
+[2019.05.22-22.28.44:303][339]LogFileHelpers: Loading map 'Lightning' took 0.139
+[2019.05.22-22.31.03:313][401]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.22-22.31.30:157][890]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.22-22.31.43:920][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightning" FILE="../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.05.22-22.31.44:136][616]LogSavePackage: Moving '../../../../../../Users/Hope/Desktop/Lightning/Saved/Lightning6AF7D2C246EC68ABD43CA8A11B261F74.tmp' to '../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning.umap'
+[2019.05.22-22.31.44:170][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lightning_BuiltData" FILE="../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning_BuiltData.uasset" SILENT=true
+[2019.05.22-22.31.44:350][616]LogSavePackage: Moving '../../../../../../Users/Hope/Desktop/Lightning/Saved/Lightning_BuiltData698275464F80E1F6F56AD5ADE8F5C4A5.tmp' to '../../../../../../Users/Hope/Desktop/Lightning/Content/Lightning_BuiltData.uasset'
+[2019.05.22-22.32.18:595][786]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.22-22.32.39:803][312]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.22-22.37.30:508][570]LogSlate: Window 'Save Level As' being destroyed
+[2019.05.22-22.49.53:765][682]LogSlate: Window 'FBX Export Options' being destroyed
+[2019.05.22-22.49.54:029][682]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.5.0
+
+
+[2019.05.22-22.50.07:957][500]AssetReimport: New page: Outstanding source content changes 2:50:07 PM
+[2019.05.22-22.50.07:971][500]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:/Users/Hope/Desktop/Lightning/Content/LightningSceneInfo.fbx)
+[2019.05.22-22.50.07:996][500]LogFbx: Loading FBX Scene from C:/Users/Hope/Desktop/Lightning/Content/LightningSceneInfo.fbx
+[2019.05.22-22.50.08:143][500]LogFbx: FBX Scene Loaded Succesfully
+[2019.05.22-22.50.10:836][500]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.05.22-22.50.10:855][500]LogFbx: =================================================
+[2019.05.22-22.50.10:855][500]LogFbx: Dumping Node START [LevelMesh] 
+[2019.05.22-22.50.10:855][500]LogFbx: 	Total Deformer Count 8715584.
+[2019.05.22-22.50.10:855][500]LogFbx: 	Attribute (Level Mesh) Type (4).
+[2019.05.22-22.50.10:855][500]LogFbx: 		[Node Attribute Child 1] LevelMesh (Type Mesh).
+[2019.05.22-22.50.10:855][500]LogFbx: Dumping Node END [LevelMesh]
+[2019.05.22-22.50.10:855][500]LogFbx: =================================================
+[2019.05.22-22.50.10:855][500]LogFbx: Dumping Node START [SkySphereBlueprint] 
+[2019.05.22-22.50.10:855][500]LogFbx: 	Total Deformer Count 8781440.
+[2019.05.22-22.50.10:855][500]LogFbx: 	Attribute (Sky Sphere mesh) Type (4).
+[2019.05.22-22.50.10:855][500]LogFbx: 		[Node Attribute Child 1] SkySphereBlueprint (Type Mesh).
+[2019.05.22-22.50.10:855][500]LogFbx: Dumping Node END [SkySphereBlueprint]
+[2019.05.22-22.50.10:855][500]LogFbx: =================================================
+[2019.05.22-22.50.10:855][500]LogFbx: Dumping Node START [CubeMesh_5] 
+[2019.05.22-22.50.10:855][500]LogFbx: 	Total Deformer Count 8704896.
+[2019.05.22-22.50.10:855][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:855][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:855][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:855][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node END [CubeMesh_5]
+[2019.05.22-22.50.10:856][500]LogFbx: =================================================
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node START [UCX_CubeMesh_5] 
+[2019.05.22-22.50.10:856][500]LogFbx: 	Total Deformer Count 20824528.
+[2019.05.22-22.50.10:856][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node END [UCX_CubeMesh_5]
+[2019.05.22-22.50.10:856][500]LogFbx: =================================================
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node START [Floor_1] 
+[2019.05.22-22.50.10:856][500]LogFbx: 	Total Deformer Count 155233080.
+[2019.05.22-22.50.10:856][500]LogFbx: 	Attribute (TemplateFloor) Type (4).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 1] Floor_1 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node END [Floor_1]
+[2019.05.22-22.50.10:856][500]LogFbx: =================================================
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node START [UCX_Floor_1] 
+[2019.05.22-22.50.10:856][500]LogFbx: 	Total Deformer Count 8702336.
+[2019.05.22-22.50.10:856][500]LogFbx: 	Attribute (UCX_TemplateFloor) Type (4).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 1] UCX_Floor_1 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node END [UCX_Floor_1]
+[2019.05.22-22.50.10:856][500]LogFbx: =================================================
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node START [Wall7_4] 
+[2019.05.22-22.50.10:856][500]LogFbx: 	Total Deformer Count 155233080.
+[2019.05.22-22.50.10:856][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node END [Wall7_4]
+[2019.05.22-22.50.10:856][500]LogFbx: =================================================
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node START [UCX_Wall7_4] 
+[2019.05.22-22.50.10:856][500]LogFbx: 	Total Deformer Count 8701376.
+[2019.05.22-22.50.10:856][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node END [UCX_Wall7_4]
+[2019.05.22-22.50.10:856][500]LogFbx: =================================================
+[2019.05.22-22.50.10:856][500]LogFbx: Dumping Node START [Wall9] 
+[2019.05.22-22.50.10:856][500]LogFbx: 	Total Deformer Count 152957520.
+[2019.05.22-22.50.10:856][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:856][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node END [Wall9]
+[2019.05.22-22.50.10:857][500]LogFbx: =================================================
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node START [UCX_Wall9] 
+[2019.05.22-22.50.10:857][500]LogFbx: 	Total Deformer Count 8700224.
+[2019.05.22-22.50.10:857][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node END [UCX_Wall9]
+[2019.05.22-22.50.10:857][500]LogFbx: =================================================
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node START [Wall10] 
+[2019.05.22-22.50.10:857][500]LogFbx: 	Total Deformer Count 155236384.
+[2019.05.22-22.50.10:857][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node END [Wall10]
+[2019.05.22-22.50.10:857][500]LogFbx: =================================================
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node START [UCX_Wall10] 
+[2019.05.22-22.50.10:857][500]LogFbx: 	Total Deformer Count 152652416.
+[2019.05.22-22.50.10:857][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node END [UCX_Wall10]
+[2019.05.22-22.50.10:857][500]LogFbx: =================================================
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node START [Wall11] 
+[2019.05.22-22.50.10:857][500]LogFbx: 	Total Deformer Count 155236272.
+[2019.05.22-22.50.10:857][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node END [Wall11]
+[2019.05.22-22.50.10:857][500]LogFbx: =================================================
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node START [UCX_Wall11] 
+[2019.05.22-22.50.10:857][500]LogFbx: 	Total Deformer Count 152649920.
+[2019.05.22-22.50.10:857][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node END [UCX_Wall11]
+[2019.05.22-22.50.10:857][500]LogFbx: =================================================
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node START [CubeMesh2] 
+[2019.05.22-22.50.10:857][500]LogFbx: 	Total Deformer Count 152649920.
+[2019.05.22-22.50.10:857][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node END [CubeMesh2]
+[2019.05.22-22.50.10:857][500]LogFbx: =================================================
+[2019.05.22-22.50.10:857][500]LogFbx: Dumping Node START [UCX_CubeMesh2] 
+[2019.05.22-22.50.10:857][500]LogFbx: 	Total Deformer Count 20838448.
+[2019.05.22-22.50.10:857][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:857][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node END [UCX_CubeMesh2]
+[2019.05.22-22.50.10:858][500]LogFbx: =================================================
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node START [CubeMesh3] 
+[2019.05.22-22.50.10:858][500]LogFbx: 	Total Deformer Count 152661312.
+[2019.05.22-22.50.10:858][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node END [CubeMesh3]
+[2019.05.22-22.50.10:858][500]LogFbx: =================================================
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node START [UCX_CubeMesh3] 
+[2019.05.22-22.50.10:858][500]LogFbx: 	Total Deformer Count 20839168.
+[2019.05.22-22.50.10:858][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node END [UCX_CubeMesh3]
+[2019.05.22-22.50.10:858][500]LogFbx: =================================================
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node START [CubeMesh4] 
+[2019.05.22-22.50.10:858][500]LogFbx: 	Total Deformer Count 152657856.
+[2019.05.22-22.50.10:858][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node END [CubeMesh4]
+[2019.05.22-22.50.10:858][500]LogFbx: =================================================
+[2019.05.22-22.50.10:858][500]LogFbx: Dumping Node START [UCX_CubeMesh4] 
+[2019.05.22-22.50.10:858][500]LogFbx: 	Total Deformer Count 20837888.
+[2019.05.22-22.50.10:858][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:858][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node END [UCX_CubeMesh4]
+[2019.05.22-22.50.10:859][500]LogFbx: =================================================
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node START [CubeMesh5] 
+[2019.05.22-22.50.10:859][500]LogFbx: 	Total Deformer Count 152658304.
+[2019.05.22-22.50.10:859][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node END [CubeMesh5]
+[2019.05.22-22.50.10:859][500]LogFbx: =================================================
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node START [UCX_CubeMesh5] 
+[2019.05.22-22.50.10:859][500]LogFbx: 	Total Deformer Count 20830688.
+[2019.05.22-22.50.10:859][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node END [UCX_CubeMesh5]
+[2019.05.22-22.50.10:859][500]LogFbx: =================================================
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node START [CubeMesh6] 
+[2019.05.22-22.50.10:859][500]LogFbx: 	Total Deformer Count 152663488.
+[2019.05.22-22.50.10:859][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node END [CubeMesh6]
+[2019.05.22-22.50.10:859][500]LogFbx: =================================================
+[2019.05.22-22.50.10:859][500]LogFbx: Dumping Node START [UCX_CubeMesh6] 
+[2019.05.22-22.50.10:859][500]LogFbx: 	Total Deformer Count 20824208.
+[2019.05.22-22.50.10:859][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:859][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: Dumping Node END [UCX_CubeMesh6]
+[2019.05.22-22.50.10:860][500]LogFbx: =================================================
+[2019.05.22-22.50.10:860][500]LogFbx: Dumping Node START [CubeMesh7] 
+[2019.05.22-22.50.10:860][500]LogFbx: 	Total Deformer Count 152665152.
+[2019.05.22-22.50.10:860][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: Dumping Node END [CubeMesh7]
+[2019.05.22-22.50.10:860][500]LogFbx: =================================================
+[2019.05.22-22.50.10:860][500]LogFbx: Dumping Node START [UCX_CubeMesh7] 
+[2019.05.22-22.50.10:860][500]LogFbx: 	Total Deformer Count 20838928.
+[2019.05.22-22.50.10:860][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: Dumping Node END [UCX_CubeMesh7]
+[2019.05.22-22.50.10:860][500]LogFbx: =================================================
+[2019.05.22-22.50.10:860][500]LogFbx: Dumping Node START [CubeMesh8] 
+[2019.05.22-22.50.10:860][500]LogFbx: 	Total Deformer Count 152649856.
+[2019.05.22-22.50.10:860][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:860][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: Dumping Node END [CubeMesh8]
+[2019.05.22-22.50.10:861][500]LogFbx: =================================================
+[2019.05.22-22.50.10:861][500]LogFbx: Dumping Node START [UCX_CubeMesh8] 
+[2019.05.22-22.50.10:861][500]LogFbx: 	Total Deformer Count 20837408.
+[2019.05.22-22.50.10:861][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: Dumping Node END [UCX_CubeMesh8]
+[2019.05.22-22.50.10:861][500]LogFbx: =================================================
+[2019.05.22-22.50.10:861][500]LogFbx: Dumping Node START [CubeMesh9] 
+[2019.05.22-22.50.10:861][500]LogFbx: 	Total Deformer Count 153046784.
+[2019.05.22-22.50.10:861][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: Dumping Node END [CubeMesh9]
+[2019.05.22-22.50.10:861][500]LogFbx: =================================================
+[2019.05.22-22.50.10:861][500]LogFbx: Dumping Node START [UCX_CubeMesh9] 
+[2019.05.22-22.50.10:861][500]LogFbx: 	Total Deformer Count 20831408.
+[2019.05.22-22.50.10:861][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:861][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: Dumping Node END [UCX_CubeMesh9]
+[2019.05.22-22.50.10:862][500]LogFbx: =================================================
+[2019.05.22-22.50.10:862][500]LogFbx: Dumping Node START [CubeMesh10] 
+[2019.05.22-22.50.10:862][500]LogFbx: 	Total Deformer Count 153045440.
+[2019.05.22-22.50.10:862][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: Dumping Node END [CubeMesh10]
+[2019.05.22-22.50.10:862][500]LogFbx: =================================================
+[2019.05.22-22.50.10:862][500]LogFbx: Dumping Node START [UCX_CubeMesh10] 
+[2019.05.22-22.50.10:862][500]LogFbx: 	Total Deformer Count 20832448.
+[2019.05.22-22.50.10:862][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: Dumping Node END [UCX_CubeMesh10]
+[2019.05.22-22.50.10:862][500]LogFbx: =================================================
+[2019.05.22-22.50.10:862][500]LogFbx: Dumping Node START [CubeMesh11] 
+[2019.05.22-22.50.10:862][500]LogFbx: 	Total Deformer Count 153050112.
+[2019.05.22-22.50.10:862][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:862][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: Dumping Node END [CubeMesh11]
+[2019.05.22-22.50.10:863][500]LogFbx: =================================================
+[2019.05.22-22.50.10:863][500]LogFbx: Dumping Node START [UCX_CubeMesh11] 
+[2019.05.22-22.50.10:863][500]LogFbx: 	Total Deformer Count 20824288.
+[2019.05.22-22.50.10:863][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: Dumping Node END [UCX_CubeMesh11]
+[2019.05.22-22.50.10:863][500]LogFbx: =================================================
+[2019.05.22-22.50.10:863][500]LogFbx: Dumping Node START [CubeMesh12] 
+[2019.05.22-22.50.10:863][500]LogFbx: 	Total Deformer Count 153052224.
+[2019.05.22-22.50.10:863][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: Dumping Node END [CubeMesh12]
+[2019.05.22-22.50.10:863][500]LogFbx: =================================================
+[2019.05.22-22.50.10:863][500]LogFbx: Dumping Node START [UCX_CubeMesh12] 
+[2019.05.22-22.50.10:863][500]LogFbx: 	Total Deformer Count 20831808.
+[2019.05.22-22.50.10:863][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:863][500]LogFbx: Dumping Node END [UCX_CubeMesh12]
+[2019.05.22-22.50.10:864][500]LogFbx: =================================================
+[2019.05.22-22.50.10:864][500]LogFbx: Dumping Node START [SkeletalMeshComponent0] 
+[2019.05.22-22.50.10:864][500]LogFbx: 	Total Deformer Count 8778752.
+[2019.05.22-22.50.10:864][500]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.22-22.50.10:864][500]LogFbx: =================================================
+[2019.05.22-22.50.10:864][500]LogFbx: 	Attribute (SkeletalMeshComponent0) Type (4).
+[2019.05.22-22.50.10:864][500]LogFbx: 		[Node Attribute Child 1] SkeletalMeshComponent0 (Type Mesh).
+[2019.05.22-22.50.10:864][500]LogFbx: Dumping Node END [SkeletalMeshComponent0]
+[2019.05.22-22.50.10:864][500]LogFbx: =================================================
+[2019.05.22-22.50.10:864][500]LogFbx: Dumping Node START [CharacterMesh0] 
+[2019.05.22-22.50.10:864][500]LogFbx: 	Total Deformer Count 20832208.
+[2019.05.22-22.50.10:864][500]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.22-22.50.10:864][500]LogFbx: =================================================
+[2019.05.22-22.50.10:864][500]LogFbx: 	Attribute (CharacterMesh0) Type (4).
+[2019.05.22-22.50.10:864][500]LogFbx: 		[Node Attribute Child 1] CharacterMesh0 (Type Mesh).
+[2019.05.22-22.50.10:864][500]LogFbx: Dumping Node END [CharacterMesh0]
+[2019.05.22-22.50.10:864][500]LogFbx: =================================================
+[2019.05.22-22.50.10:864][500]LogFbx: Dumping Node START [LevelMesh] 
+[2019.05.22-22.50.10:864][500]LogFbx: 	Total Deformer Count 153056000.
+[2019.05.22-22.50.10:864][500]LogFbx: 	Attribute (Level Mesh) Type (4).
+[2019.05.22-22.50.10:864][500]LogFbx: 		[Node Attribute Child 1] LevelMesh (Type Mesh).
+[2019.05.22-22.50.10:864][500]LogFbx: Dumping Node END [LevelMesh]
+[2019.05.22-22.50.10:864][500]LogFbx: =================================================
+[2019.05.22-22.50.10:864][500]LogFbx: Dumping Node START [SkeletalMeshComponent0] 
+[2019.05.22-22.50.10:864][500]LogFbx: 	Total Deformer Count 8779328.
+[2019.05.22-22.50.10:865][500]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.22-22.50.10:865][500]LogFbx: =================================================
+[2019.05.22-22.50.10:865][500]LogFbx: 	Attribute (SkeletalMeshComponent0) Type (4).
+[2019.05.22-22.50.10:865][500]LogFbx: 		[Node Attribute Child 1] SkeletalMeshComponent0 (Type Mesh).
+[2019.05.22-22.50.10:865][500]LogFbx: Dumping Node END [SkeletalMeshComponent0]
+[2019.05.22-22.50.10:866][500]LogFbx: =================================================
+[2019.05.22-22.50.10:866][500]LogFbx: Dumping Node START [SkeletalMeshComponent0] 
+[2019.05.22-22.50.10:866][500]LogFbx: 	Total Deformer Count 8779328.
+[2019.05.22-22.50.10:866][500]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.22-22.50.10:866][500]LogFbx: =================================================
+[2019.05.22-22.50.10:866][500]LogFbx: 	Attribute (SkeletalMeshComponent0) Type (4).
+[2019.05.22-22.50.10:866][500]LogFbx: 		[Node Attribute Child 1] SkeletalMeshComponent0 (Type Mesh).
+[2019.05.22-22.50.10:866][500]LogFbx: Dumping Node END [SkeletalMeshComponent0]
+[2019.05.22-22.50.10:866][500]LogFbx: =================================================
+[2019.05.22-22.50.10:866][500]LogFbx: Dumping Node START [CharacterMesh0] 
+[2019.05.22-22.50.10:866][500]LogFbx: 	Total Deformer Count 20838288.
+[2019.05.22-22.50.10:866][500]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.22-22.50.10:866][500]LogFbx: =================================================
+[2019.05.22-22.50.10:866][500]LogFbx: 	Attribute (CharacterMesh0) Type (4).
+[2019.05.22-22.50.10:866][500]LogFbx: 		[Node Attribute Child 1] CharacterMesh0 (Type Mesh).
+[2019.05.22-22.50.10:866][500]LogFbx: Dumping Node END [CharacterMesh0]
+[2019.05.22-22.50.10:866][500]LogFbx: =================================================
+[2019.05.22-22.50.10:866][500]LogFbx: Dumping Node START [CharacterMesh0] 
+[2019.05.22-22.50.10:866][500]LogFbx: 	Total Deformer Count 20838288.
+[2019.05.22-22.50.10:866][500]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.22-22.50.10:866][500]LogFbx: =================================================
+[2019.05.22-22.50.10:866][500]LogFbx: 	Attribute (CharacterMesh0) Type (4).
+[2019.05.22-22.50.10:866][500]LogFbx: 		[Node Attribute Child 1] CharacterMesh0 (Type Mesh).
+[2019.05.22-22.50.10:867][500]LogFbx: Dumping Node END [CharacterMesh0]
+[2019.05.22-22.50.10:868][500]LogFbx: =================================================
+[2019.05.22-22.50.10:868][500]LogFbx: Dumping Node START [CharacterMesh0] 
+[2019.05.22-22.50.10:868][500]LogFbx: 	Total Deformer Count 20840208.
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node 1]  (Type Skin).
+[2019.05.22-22.50.10:868][500]LogFbx: =================================================
+[2019.05.22-22.50.10:868][500]LogFbx: 	Attribute (CharacterMesh0) Type (4).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 1] CharacterMesh0 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: Dumping Node END [CharacterMesh0]
+[2019.05.22-22.50.10:868][500]LogFbx: =================================================
+[2019.05.22-22.50.10:868][500]LogFbx: Dumping Node START [SkySphereBlueprint] 
+[2019.05.22-22.50.10:868][500]LogFbx: 	Total Deformer Count 8780480.
+[2019.05.22-22.50.10:868][500]LogFbx: 	Attribute (Sky Sphere mesh) Type (4).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 1] SkySphereBlueprint (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: Dumping Node END [SkySphereBlueprint]
+[2019.05.22-22.50.10:868][500]LogFbx: =================================================
+[2019.05.22-22.50.10:868][500]LogFbx: Dumping Node START [CubeMesh_5] 
+[2019.05.22-22.50.10:868][500]LogFbx: 	Total Deformer Count 153044544.
+[2019.05.22-22.50.10:868][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: Dumping Node END [CubeMesh_5]
+[2019.05.22-22.50.10:868][500]LogFbx: =================================================
+[2019.05.22-22.50.10:868][500]LogFbx: Dumping Node START [UCX_CubeMesh_5] 
+[2019.05.22-22.50.10:868][500]LogFbx: 	Total Deformer Count 20831488.
+[2019.05.22-22.50.10:868][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:868][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node END [UCX_CubeMesh_5]
+[2019.05.22-22.50.10:869][500]LogFbx: =================================================
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node START [Floor_1] 
+[2019.05.22-22.50.10:869][500]LogFbx: 	Total Deformer Count 155233360.
+[2019.05.22-22.50.10:869][500]LogFbx: 	Attribute (TemplateFloor) Type (4).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 1] Floor_1 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node END [Floor_1]
+[2019.05.22-22.50.10:869][500]LogFbx: =================================================
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node START [UCX_Floor_1] 
+[2019.05.22-22.50.10:869][500]LogFbx: 	Total Deformer Count 1132965120.
+[2019.05.22-22.50.10:869][500]LogFbx: 	Attribute (UCX_TemplateFloor) Type (4).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 1] UCX_Floor_1 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node END [UCX_Floor_1]
+[2019.05.22-22.50.10:869][500]LogFbx: =================================================
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node START [Wall7_4] 
+[2019.05.22-22.50.10:869][500]LogFbx: 	Total Deformer Count 155233360.
+[2019.05.22-22.50.10:869][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node END [Wall7_4]
+[2019.05.22-22.50.10:869][500]LogFbx: =================================================
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node START [UCX_Wall7_4] 
+[2019.05.22-22.50.10:869][500]LogFbx: 	Total Deformer Count 1132968832.
+[2019.05.22-22.50.10:869][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node END [UCX_Wall7_4]
+[2019.05.22-22.50.10:869][500]LogFbx: =================================================
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node START [Wall9] 
+[2019.05.22-22.50.10:869][500]LogFbx: 	Total Deformer Count 152957520.
+[2019.05.22-22.50.10:869][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node END [Wall9]
+[2019.05.22-22.50.10:869][500]LogFbx: =================================================
+[2019.05.22-22.50.10:869][500]LogFbx: Dumping Node START [UCX_Wall9] 
+[2019.05.22-22.50.10:869][500]LogFbx: 	Total Deformer Count 1132967360.
+[2019.05.22-22.50.10:869][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:869][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node END [UCX_Wall9]
+[2019.05.22-22.50.10:870][500]LogFbx: =================================================
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node START [Wall10] 
+[2019.05.22-22.50.10:870][500]LogFbx: 	Total Deformer Count 155236272.
+[2019.05.22-22.50.10:870][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node END [Wall10]
+[2019.05.22-22.50.10:870][500]LogFbx: =================================================
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node START [UCX_Wall10] 
+[2019.05.22-22.50.10:870][500]LogFbx: 	Total Deformer Count 266642112.
+[2019.05.22-22.50.10:870][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node END [UCX_Wall10]
+[2019.05.22-22.50.10:870][500]LogFbx: =================================================
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node START [Wall11] 
+[2019.05.22-22.50.10:870][500]LogFbx: 	Total Deformer Count 155233304.
+[2019.05.22-22.50.10:870][500]LogFbx: 	Attribute (1M_Cube) Type (4).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 1] Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 2] Wall9 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 3] Wall10 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 4] Wall11 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node END [Wall11]
+[2019.05.22-22.50.10:870][500]LogFbx: =================================================
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node START [UCX_Wall11] 
+[2019.05.22-22.50.10:870][500]LogFbx: 	Total Deformer Count 266646784.
+[2019.05.22-22.50.10:870][500]LogFbx: 	Attribute (UCX_1M_Cube) Type (4).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 1] UCX_Wall7_4 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 2] UCX_Wall9 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 3] UCX_Wall10 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 4] UCX_Wall11 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node END [UCX_Wall11]
+[2019.05.22-22.50.10:870][500]LogFbx: =================================================
+[2019.05.22-22.50.10:870][500]LogFbx: Dumping Node START [CubeMesh2] 
+[2019.05.22-22.50.10:870][500]LogFbx: 	Total Deformer Count 266646784.
+[2019.05.22-22.50.10:870][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:870][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: Dumping Node END [CubeMesh2]
+[2019.05.22-22.50.10:871][500]LogFbx: =================================================
+[2019.05.22-22.50.10:871][500]LogFbx: Dumping Node START [UCX_CubeMesh2] 
+[2019.05.22-22.50.10:871][500]LogFbx: 	Total Deformer Count 143363264.
+[2019.05.22-22.50.10:871][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: Dumping Node END [UCX_CubeMesh2]
+[2019.05.22-22.50.10:871][500]LogFbx: =================================================
+[2019.05.22-22.50.10:871][500]LogFbx: Dumping Node START [CubeMesh3] 
+[2019.05.22-22.50.10:871][500]LogFbx: 	Total Deformer Count 266648576.
+[2019.05.22-22.50.10:871][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: Dumping Node END [CubeMesh3]
+[2019.05.22-22.50.10:871][500]LogFbx: =================================================
+[2019.05.22-22.50.10:871][500]LogFbx: Dumping Node START [UCX_CubeMesh3] 
+[2019.05.22-22.50.10:871][500]LogFbx: 	Total Deformer Count 143360864.
+[2019.05.22-22.50.10:871][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:871][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node END [UCX_CubeMesh3]
+[2019.05.22-22.50.10:872][500]LogFbx: =================================================
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node START [CubeMesh4] 
+[2019.05.22-22.50.10:872][500]LogFbx: 	Total Deformer Count 153421440.
+[2019.05.22-22.50.10:872][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node END [CubeMesh4]
+[2019.05.22-22.50.10:872][500]LogFbx: =================================================
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node START [UCX_CubeMesh4] 
+[2019.05.22-22.50.10:872][500]LogFbx: 	Total Deformer Count 143365664.
+[2019.05.22-22.50.10:872][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node END [UCX_CubeMesh4]
+[2019.05.22-22.50.10:872][500]LogFbx: =================================================
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node START [CubeMesh5] 
+[2019.05.22-22.50.10:872][500]LogFbx: 	Total Deformer Count 153420416.
+[2019.05.22-22.50.10:872][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node END [CubeMesh5]
+[2019.05.22-22.50.10:872][500]LogFbx: =================================================
+[2019.05.22-22.50.10:872][500]LogFbx: Dumping Node START [UCX_CubeMesh5] 
+[2019.05.22-22.50.10:873][500]LogFbx: 	Total Deformer Count 143360464.
+[2019.05.22-22.50.10:873][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: Dumping Node END [UCX_CubeMesh5]
+[2019.05.22-22.50.10:873][500]LogFbx: =================================================
+[2019.05.22-22.50.10:873][500]LogFbx: Dumping Node START [CubeMesh6] 
+[2019.05.22-22.50.10:873][500]LogFbx: 	Total Deformer Count 153423936.
+[2019.05.22-22.50.10:873][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: Dumping Node END [CubeMesh6]
+[2019.05.22-22.50.10:873][500]LogFbx: =================================================
+[2019.05.22-22.50.10:873][500]LogFbx: Dumping Node START [UCX_CubeMesh6] 
+[2019.05.22-22.50.10:873][500]LogFbx: 	Total Deformer Count 143360784.
+[2019.05.22-22.50.10:873][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: Dumping Node END [UCX_CubeMesh6]
+[2019.05.22-22.50.10:873][500]LogFbx: =================================================
+[2019.05.22-22.50.10:873][500]LogFbx: Dumping Node START [CubeMesh7] 
+[2019.05.22-22.50.10:873][500]LogFbx: 	Total Deformer Count 153427008.
+[2019.05.22-22.50.10:873][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:873][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: Dumping Node END [CubeMesh7]
+[2019.05.22-22.50.10:874][500]LogFbx: =================================================
+[2019.05.22-22.50.10:874][500]LogFbx: Dumping Node START [UCX_CubeMesh7] 
+[2019.05.22-22.50.10:874][500]LogFbx: 	Total Deformer Count 143363584.
+[2019.05.22-22.50.10:874][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: Dumping Node END [UCX_CubeMesh7]
+[2019.05.22-22.50.10:874][500]LogFbx: =================================================
+[2019.05.22-22.50.10:874][500]LogFbx: Dumping Node START [CubeMesh8] 
+[2019.05.22-22.50.10:874][500]LogFbx: 	Total Deformer Count 153430144.
+[2019.05.22-22.50.10:874][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: Dumping Node END [CubeMesh8]
+[2019.05.22-22.50.10:874][500]LogFbx: =================================================
+[2019.05.22-22.50.10:874][500]LogFbx: Dumping Node START [UCX_CubeMesh8] 
+[2019.05.22-22.50.10:874][500]LogFbx: 	Total Deformer Count 143366304.
+[2019.05.22-22.50.10:874][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:874][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node END [UCX_CubeMesh8]
+[2019.05.22-22.50.10:875][500]LogFbx: =================================================
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node START [CubeMesh9] 
+[2019.05.22-22.50.10:875][500]LogFbx: 	Total Deformer Count 153432832.
+[2019.05.22-22.50.10:875][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node END [CubeMesh9]
+[2019.05.22-22.50.10:875][500]LogFbx: =================================================
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node START [UCX_CubeMesh9] 
+[2019.05.22-22.50.10:875][500]LogFbx: 	Total Deformer Count 143360944.
+[2019.05.22-22.50.10:875][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node END [UCX_CubeMesh9]
+[2019.05.22-22.50.10:875][500]LogFbx: =================================================
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node START [CubeMesh10] 
+[2019.05.22-22.50.10:875][500]LogFbx: 	Total Deformer Count 153435392.
+[2019.05.22-22.50.10:875][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node END [CubeMesh10]
+[2019.05.22-22.50.10:875][500]LogFbx: =================================================
+[2019.05.22-22.50.10:875][500]LogFbx: Dumping Node START [UCX_CubeMesh10] 
+[2019.05.22-22.50.10:875][500]LogFbx: 	Total Deformer Count 143361344.
+[2019.05.22-22.50.10:875][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:875][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node END [UCX_CubeMesh10]
+[2019.05.22-22.50.10:876][500]LogFbx: =================================================
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node START [CubeMesh11] 
+[2019.05.22-22.50.10:876][500]LogFbx: 	Total Deformer Count 153846208.
+[2019.05.22-22.50.10:876][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node END [CubeMesh11]
+[2019.05.22-22.50.10:876][500]LogFbx: =================================================
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node START [UCX_CubeMesh11] 
+[2019.05.22-22.50.10:876][500]LogFbx: 	Total Deformer Count 143361504.
+[2019.05.22-22.50.10:876][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node END [UCX_CubeMesh11]
+[2019.05.22-22.50.10:876][500]LogFbx: =================================================
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node START [CubeMesh12] 
+[2019.05.22-22.50.10:876][500]LogFbx: 	Total Deformer Count 153848064.
+[2019.05.22-22.50.10:876][500]LogFbx: 	Attribute (1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 1] CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 2] CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 3] CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 4] CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 5] CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 6] CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 7] CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 8] CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 9] CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 10] CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 11] CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 12] CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node END [CubeMesh12]
+[2019.05.22-22.50.10:876][500]LogFbx: =================================================
+[2019.05.22-22.50.10:876][500]LogFbx: Dumping Node START [UCX_CubeMesh12] 
+[2019.05.22-22.50.10:876][500]LogFbx: 	Total Deformer Count 143361184.
+[2019.05.22-22.50.10:876][500]LogFbx: 	Attribute (UCX_1M_Cube_Chamfer) Type (4).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 1] UCX_CubeMesh_5 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 2] UCX_CubeMesh2 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 3] UCX_CubeMesh3 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 4] UCX_CubeMesh4 (Type Mesh).
+[2019.05.22-22.50.10:876][500]LogFbx: 		[Node Attribute Child 5] UCX_CubeMesh5 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: 		[Node Attribute Child 6] UCX_CubeMesh6 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: 		[Node Attribute Child 7] UCX_CubeMesh7 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: 		[Node Attribute Child 8] UCX_CubeMesh8 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: 		[Node Attribute Child 9] UCX_CubeMesh9 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: 		[Node Attribute Child 10] UCX_CubeMesh10 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: 		[Node Attribute Child 11] UCX_CubeMesh11 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: 		[Node Attribute Child 12] UCX_CubeMesh12 (Type Mesh).
+[2019.05.22-22.50.10:877][500]LogFbx: Dumping Node END [UCX_CubeMesh12]
+[2019.05.22-22.50.10:879][500]LogFbx: Valid bind pose for Pose (SkeletalMeshComponent0) - SkeletalMeshComponent0
+[2019.05.22-22.50.10:880][500]LogFbx: Valid bind pose for Pose (CharacterMesh0) - SkeletalMeshComponent0
+[2019.05.22-22.50.11:123][500]LogLinker: Can't find file '/Game/M5PhillipLimbs01'
+[2019.05.22-22.50.11:123][500]LogLinker: Can't find file '/Game/M5PhillipLimbs01'
+[2019.05.22-22.50.15:714][500]LogLinker: Can't find file '/Game/M5PhillipFace01'
+[2019.05.22-22.50.15:714][500]LogLinker: Can't find file '/Game/M5PhillipFace01'
+[2019.05.22-22.50.19:319][500]LogLinker: Can't find file '/Game/d2'
+[2019.05.22-22.50.19:320][500]LogLinker: Can't find file '/Game/d2'
+[2019.05.22-22.50.21:166][500]LogLinker: Can't find file '/Game/V5BreeEyes3M'
+[2019.05.22-22.50.21:166][500]LogLinker: Can't find file '/Game/V5BreeEyes3M'
+[2019.05.22-22.50.25:785][500]LogLinker: Can't find file '/Game/M5PhillipMouth'
+[2019.05.22-22.50.25:786][500]LogLinker: Can't find file '/Game/M5PhillipMouth'
+[2019.05.22-22.50.26:650][500]LogLinker: Can't find file '/Game/M5PhillipMouthO'
+[2019.05.22-22.50.26:651][500]LogLinker: Can't find file '/Game/M5PhillipMouthO'
+[2019.05.22-22.50.42:739][500]LogLinker: Can't find file '/Game/M5PhillipTorso01'
+[2019.05.22-22.50.42:739][500]LogLinker: Can't find file '/Game/M5PhillipTorso01'
+[2019.05.22-22.51.25:983][500]LogLinker: Can't find file '/Game/M5PhillipLashes'
+[2019.05.22-22.51.25:984][500]LogLinker: Can't find file '/Game/M5PhillipLashes'
+[2019.05.22-22.51.26:462][500]LogLinker: Can't find file '/Game/M5PhillipLashesO'
+[2019.05.22-22.51.26:463][500]LogLinker: Can't find file '/Game/M5PhillipLashesO'
+[2019.05.22-22.51.29:068][500]LogLinker: Can't find file '/Game/sNewportShirt01'
+[2019.05.22-22.51.29:069][500]LogLinker: Can't find file '/Game/sNewportShirt01'
+[2019.05.22-22.51.36:044][500]LogLinker: Can't find file '/Game/sNewportShirtB'
+[2019.05.22-22.51.36:045][500]LogLinker: Can't find file '/Game/sNewportShirtB'
+[2019.05.22-22.52.01:290][500]LogLinker: Can't find file '/Game/sNewportPants01'
+[2019.05.22-22.52.01:290][500]LogLinker: Can't find file '/Game/sNewportPants01'
+[2019.05.22-22.52.07:205][500]LogLinker: Can't find file '/Game/sNewportPants01B'
+[2019.05.22-22.52.07:205][500]LogLinker: Can't find file '/Game/sNewportPants01B'
+[2019.05.22-22.52.15:495][500]LogLinker: Can't find file '/Game/sNewportShoes01'
+[2019.05.22-22.52.15:496][500]LogLinker: Can't find file '/Game/sNewportShoes01'
+[2019.05.22-22.52.19:423][500]LogLinker: Can't find file '/Game/sNewportShoesB'
+[2019.05.22-22.52.19:424][500]LogLinker: Can't find file '/Game/sNewportShoesB'
+[2019.05.22-22.52.39:633][500]LogLinker: Can't find file '/Game/ArmaniHairCapTex01'
+[2019.05.22-22.52.39:633][500]LogLinker: Can't find file '/Game/ArmaniHairCapTex01'
+[2019.05.22-22.52.42:105][500]LogLinker: Can't find file '/Game/ArmaniHairCapTR'
+[2019.05.22-22.52.42:105][500]LogLinker: Can't find file '/Game/ArmaniHairCapTR'
+[2019.05.22-22.52.42:947][500]LogLinker: Can't find file '/Game/ArmaniHairStrandsTex01'
+[2019.05.22-22.52.42:948][500]LogLinker: Can't find file '/Game/ArmaniHairStrandsTex01'
+[2019.05.22-22.52.46:514][500]LogLinker: Can't find file '/Game/ArmaniHairTrans'
+[2019.05.22-22.52.46:514][500]LogLinker: Can't find file '/Game/ArmaniHairTrans'
+[2019.05.22-22.53.09:582][500]LogLinker: Can't find file '/Game/ArmaniHairThinTex01'
+[2019.05.22-22.53.09:582][500]LogLinker: Can't find file '/Game/ArmaniHairThinTex01'
+[2019.05.22-22.53.11:449][500]LogLinker: Can't find file '/Game/ArmaniHairThinTrans'
+[2019.05.22-22.53.11:449][500]LogLinker: Can't find file '/Game/ArmaniHairThinTrans'
+[2019.05.22-22.53.24:831][500]LogSkeletalMesh: Section 0: 1522 vertices, 7 active bones
+[2019.05.22-22.53.24:831][500]LogSkeletalMesh: Section 1: 386 vertices, 2 active bones
+[2019.05.22-22.53.24:831][500]LogSkeletalMesh: Section 2: 80 vertices, 1 active bones
+[2019.05.22-22.53.24:831][500]LogSkeletalMesh: Section 3: 164 vertices, 1 active bones
+[2019.05.22-22.53.24:832][500]LogSkeletalMesh: Section 4: 146 vertices, 2 active bones
+[2019.05.22-22.53.24:835][500]LogSkeletalMesh: Section 5: 224 vertices, 2 active bones
+[2019.05.22-22.53.24:835][500]LogSkeletalMesh: Section 6: 130 vertices, 1 active bones
+[2019.05.22-22.53.24:835][500]LogSkeletalMesh: Section 7: 1077 vertices, 3 active bones
+[2019.05.22-22.53.24:835][500]LogSkeletalMesh: Section 8: 256 vertices, 2 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 9: 1788 vertices, 2 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 10: 114 vertices, 2 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 11: 2487 vertices, 4 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 12: 265 vertices, 10 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 13: 304 vertices, 2 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 14: 435 vertices, 10 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 15: 330 vertices, 3 active bones
+[2019.05.22-22.53.24:836][500]LogSkeletalMesh: Section 16: 652 vertices, 1 active bones
+[2019.05.22-22.53.24:837][500]LogSkeletalMesh: Section 17: 3197 vertices, 38 active bones
+[2019.05.22-22.53.24:837][500]LogSkeletalMesh: Section 18: 736 vertices, 9 active bones
+[2019.05.22-22.53.24:837][500]LogSkeletalMesh: Section 19: 391 vertices, 6 active bones
+[2019.05.22-22.53.24:837][500]LogSkeletalMesh: Section 20: 1621 vertices, 5 active bones
+[2019.05.22-22.53.24:837][500]LogSkeletalMesh: Section 21: 2473 vertices, 12 active bones
+[2019.05.22-22.53.24:837][500]LogSkeletalMesh: Section 22: 194 vertices, 5 active bones
+[2019.05.22-22.53.24:837][500]LogSkeletalMesh: Section 23: 1305 vertices, 12 active bones
+[2019.05.22-22.53.24:838][500]LogSkeletalMesh: Section 24: 2434 vertices, 16 active bones
+[2019.05.22-22.53.24:838][500]LogSkeletalMesh: Section 25: 432 vertices, 1 active bones
+[2019.05.22-22.53.24:838][500]LogSkeletalMesh: Section 26: 351 vertices, 8 active bones
+[2019.05.22-22.53.24:838][500]LogSkeletalMesh: Section 27: 247 vertices, 2 active bones
+[2019.05.22-22.53.24:838][500]LogSkeletalMesh: Section 28: 5461 vertices, 14 active bones
+[2019.05.22-22.53.24:839][500]LogSkeletalMesh: Section 29: 594 vertices, 4 active bones
+[2019.05.22-22.53.24:839][500]LogSkeletalMesh: Section 30: 3591 vertices, 12 active bones
+[2019.05.22-22.53.24:839][500]LogSkeletalMesh: Section 31: 1752 vertices, 4 active bones
+[2019.05.22-22.53.24:841][500]LogSkeletalMesh: Section 32: 5366 vertices, 9 active bones
+[2019.05.22-22.53.24:841][500]LogSkeletalMesh: Section 33: 717 vertices, 5 active bones
+[2019.05.22-22.53.24:842][500]LogSkeletalMesh: Section 34: 5518 vertices, 8 active bones
+[2019.05.22-22.53.24:843][500]LogSkeletalMesh: Section 35: 5716 vertices, 8 active bones
+[2019.05.22-22.53.24:844][500]LogSkeletalMesh: Section 36: 3960 vertices, 6 active bones
+[2019.05.22-22.53.24:844][500]LogSkeletalMesh: Section 37: 2944 vertices, 8 active bones
+[2019.05.22-22.53.24:846][500]LogSkeletalMesh: Section 38: 7613 vertices, 8 active bones
+[2019.05.22-22.53.24:847][500]LogSkeletalMesh: Section 39: 2609 vertices, 3 active bones
+[2019.05.22-22.53.24:847][500]LogSkeletalMesh: Section 40: 450 vertices, 1 active bones
+[2019.05.22-22.53.24:847][500]LogSkeletalMesh: Section 41: 601 vertices, 1 active bones
+[2019.05.22-22.53.24:847][500]LogSkeletalMesh: Section 42: 1360 vertices, 3 active bones
+[2019.05.22-22.53.24:849][500]LogSkeletalMesh: Section 43: 10062 vertices, 1 active bones
+[2019.05.22-22.53.24:850][500]LogSkeletalMesh: Section 44: 3988 vertices, 3 active bones
+[2019.05.22-22.53.24:850][500]LogSkeletalMesh: Section 45: 1530 vertices, 1 active bones
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 0: Material=0, 2834 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 1: Material=1, 704 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 2: Material=2, 128 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 3: Material=3, 256 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 4: Material=4, 256 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 5: Material=5, 384 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 6: Material=6, 200 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 7: Material=7, 2084 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 8: Material=8, 448 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 9: Material=9, 2752 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 10: Material=10, 192 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 11: Material=11, 4758 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 12: Material=12, 372 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 13: Material=13, 512 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 14: Material=14, 706 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 15: Material=15, 540 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 16: Material=16, 1212 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 17: Material=17, 5584 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 18: Material=18, 1292 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 19: Material=19, 642 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 20: Material=20, 3032 triangles
+[2019.05.22-22.53.24:864][500]LogSkeletalMesh: Section 21: Material=21, 4640 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 22: Material=22, 336 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 23: Material=23, 2412 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 24: Material=24, 4196 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 25: Material=25, 640 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 26: Material=26, 632 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 27: Material=27, 416 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 28: Material=28, 10369 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 29: Material=29, 960 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 30: Material=30, 6810 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 31: Material=31, 3276 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 32: Material=32, 10344 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 33: Material=33, 1256 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 34: Material=34, 10238 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 35: Material=35, 10584 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 36: Material=36, 7096 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 37: Material=37, 4994 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 38: Material=38, 13863 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 39: Material=39, 5072 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 40: Material=40, 672 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 41: Material=41, 892 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 42: Material=42, 2016 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 43: Material=43, 16960 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 44: Material=44, 4638 triangles
+[2019.05.22-22.53.24:865][500]LogSkeletalMesh: Section 45: Material=45, 2304 triangles
+[2019.05.22-22.53.24:871][500]LogSkeletalMesh: Building Skeletal Mesh LightningSceneInfo_SkeletalMeshComponent0...
+[2019.05.22-22.53.25:788][500]LogSkeletalMesh: Built Skeletal Mesh [0.92s] /Game/LightningSceneInfo.LightningSceneInfo_SkeletalMeshComponent0
+[2019.05.22-22.53.26:136][500]LogLinker: Can't find file '/Game/LightningSceneInfo_SkeletalMeshComponent0_Skeleton'
+[2019.05.22-22.53.26:137][500]LogLinker: Can't find file '/Game/LightningSceneInfo_SkeletalMeshComponent0_Skeleton'
+[2019.05.22-22.53.26:145][500]LogLinker: Can't find file '/Game/LightningSceneInfo_SkeletalMeshComponent0_PhysicsAsset'
+[2019.05.22-22.53.26:146][500]LogLinker: Can't find file '/Game/LightningSceneInfo_SkeletalMeshComponent0_PhysicsAsset'
+[2019.05.22-22.53.26:223][500]LogSkeletalMesh: Building Skeletal Mesh LightningSceneInfo_SkeletalMeshComponent0...
+[2019.05.22-22.53.27:101][500]LogSkeletalMesh: Built Skeletal Mesh [0.88s] /Game/LightningSceneInfo.LightningSceneInfo_SkeletalMeshComponent0
+[2019.05.22-22.53.27:257][500]LogFbx: Valid bind pose for Pose (SkeletalMeshComponent0) - CharacterMesh0
+[2019.05.22-22.53.27:258][500]LogFbx: Valid bind pose for Pose (CharacterMesh0) - CharacterMesh0
+[2019.05.22-22.53.29:167][500]LogSkeletalMesh: Section 0: 23274 vertices, 60 active bones
+[2019.05.22-22.53.29:167][500]LogSkeletalMesh: Section 1: 35 vertices, 4 active bones
+[2019.05.22-22.53.29:173][500]LogSkeletalMesh: Section 0: Material=0, 41004 triangles
+[2019.05.22-22.53.29:173][500]LogSkeletalMesh: Section 1: Material=1, 48 triangles
+[2019.05.22-22.53.29:175][500]LogSkeletalMesh: Building Skeletal Mesh LightningSceneInfo_CharacterMesh0...
+[2019.05.22-22.53.29:280][500]LogSkeletalMesh: Built Skeletal Mesh [0.11s] /Game/LightningSceneInfo.LightningSceneInfo_CharacterMesh0
+[2019.05.22-22.53.29:302][500]LogLinker: Can't find file '/Game/LightningSceneInfo_CharacterMesh0_Skeleton'
+[2019.05.22-22.53.29:302][500]LogLinker: Can't find file '/Game/LightningSceneInfo_CharacterMesh0_Skeleton'
+[2019.05.22-22.53.29:310][500]LogLinker: Can't find file '/Game/LightningSceneInfo_CharacterMesh0_PhysicsAsset'
+[2019.05.22-22.53.29:310][500]LogLinker: Can't find file '/Game/LightningSceneInfo_CharacterMesh0_PhysicsAsset'
+[2019.05.22-22.53.29:351][500]LogSkeletalMesh: Building Skeletal Mesh LightningSceneInfo_CharacterMesh0...
+[2019.05.22-22.53.29:433][500]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/LightningSceneInfo.LightningSceneInfo_CharacterMesh0
+[2019.05.22-22.53.29:472][500]LogSkeletalMesh: Building Skeletal Mesh LightningSceneInfo_CharacterMesh0...
+[2019.05.22-22.53.29:553][500]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/LightningSceneInfo.LightningSceneInfo_CharacterMesh0
+[2019.05.22-22.53.29:652][501]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.22-22.53.29:652][501]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.22-22.53.30:364][501]LogShaderCompilers: Display: Shaders left to compile 1513
+[2019.05.22-22.53.30:468][501]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LightningSceneInfo" FILE="../../../../../../Users/Hope/Desktop/Lightning/Content/LightningSceneInfo.uasset" SILENT=true
+[2019.05.22-22.53.31:244][501]LogSavePackage: Moving '../../../../../../Users/Hope/Desktop/Lightning/Saved/LightningSceneInfo3176314F4CE8DF7B7F2043BBCFF830EC.tmp' to '../../../../../../Users/Hope/Desktop/Lightning/Content/LightningSceneInfo.uasset'
+[2019.05.22-22.53.31:482][510]LogShaderCompilers: Display: Shaders left to compile 1503
+[2019.05.22-22.53.34:268][654]AssetReimport: Importing new asset /Game/LightningSceneInfo.
+[2019.05.22-22.53.34:289][656]LogShaderCompilers: Display: Shaders left to compile 1493
+[2019.05.22-22.53.35:377][714]LogShaderCompilers: Display: Shaders left to compile 1483
+[2019.05.22-22.53.35:499][721]LogShaderCompilers: Display: Shaders left to compile 1473
+[2019.05.22-22.53.36:529][774]LogShaderCompilers: Display: Shaders left to compile 1463
+[2019.05.22-22.53.38:421][875]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (8.769 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.05.22-22.53.38:517][880]LogShaderCompilers: Display: Shaders left to compile 1453
+[2019.05.22-22.53.39:433][928]LogShaderCompilers: Display: Shaders left to compile 1443
+[2019.05.22-22.53.40:779][  1]LogShaderCompilers: Display: Shaders left to compile 1433
+[2019.05.22-22.53.41:945][ 62]LogShaderCompilers: Display: Shaders left to compile 1423
+[2019.05.22-22.53.42:119][ 72]LogShaderCompilers: Display: Shaders left to compile 1413
+[2019.05.22-22.53.44:197][181]LogShaderCompilers: Display: Shaders left to compile 1403
+[2019.05.22-22.53.45:210][235]LogShaderCompilers: Display: Shaders left to compile 1393
+[2019.05.22-22.53.45:924][274]LogShaderCompilers: Display: Shaders left to compile 1383
+[2019.05.22-22.53.47:045][335]LogShaderCompilers: Display: Shaders left to compile 1373
+[2019.05.22-22.53.48:793][424]LogShaderCompilers: Display: Shaders left to compile 1363
+[2019.05.22-22.53.49:578][465]LogShaderCompilers: Display: Shaders left to compile 1353
+[2019.05.22-22.53.50:780][529]LogShaderCompilers: Display: Shaders left to compile 1343
+[2019.05.22-22.53.51:236][553]LogShaderCompilers: Display: Shaders left to compile 1333
+[2019.05.22-22.53.53:536][675]LogShaderCompilers: Display: Shaders left to compile 1323
+[2019.05.22-22.53.54:480][727]LogShaderCompilers: Display: Shaders left to compile 1313
+[2019.05.22-22.53.55:114][759]LogShaderCompilers: Display: Shaders left to compile 1303
+[2019.05.22-22.53.56:393][824]LogShaderCompilers: Display: Shaders left to compile 1293
+[2019.05.22-22.53.58:325][927]LogShaderCompilers: Display: Shaders left to compile 1283
+[2019.05.22-22.53.58:892][956]LogShaderCompilers: Display: Shaders left to compile 1273
+[2019.05.22-22.54.00:410][ 24]LogShaderCompilers: Display: Shaders left to compile 1263
+[2019.05.22-22.54.00:911][ 51]LogShaderCompilers: Display: Shaders left to compile 1253
+[2019.05.22-22.54.02:974][156]LogShaderCompilers: Display: Shaders left to compile 1243
+[2019.05.22-22.54.04:231][221]LogShaderCompilers: Display: Shaders left to compile 1233
+[2019.05.22-22.54.05:483][284]LogShaderCompilers: Display: Shaders left to compile 1223
+[2019.05.22-22.54.05:501][285]LogShaderCompilers: Display: Shaders left to compile 1213
+[2019.05.22-22.54.05:731][296]LogSlate: Window 'Message Log' being destroyed
+[2019.05.22-22.54.05:733][296]LogSlate: Window 'Message Log' being destroyed
+[2019.05.22-22.54.08:201][431]LogShaderCompilers: Display: Shaders left to compile 1203
+[2019.05.22-22.54.08:709][461]LogShaderCompilers: Display: Shaders left to compile 1193
+[2019.05.22-22.54.09:283][490]LogShaderCompilers: Display: Shaders left to compile 1183
+[2019.05.22-22.54.10:967][583]LogShaderCompilers: Display: Shaders left to compile 1173
+[2019.05.22-22.54.12:675][681]LogShaderCompilers: Display: Shaders left to compile 1163
+[2019.05.22-22.54.12:819][689]LogShaderCompilers: Display: Shaders left to compile 1153
+[2019.05.22-22.54.14:277][771]LogShaderCompilers: Display: Shaders left to compile 1143
+[2019.05.22-22.54.14:410][778]LogShaderCompilers: Display: Shaders left to compile 1133
+[2019.05.22-22.54.16:623][880]LogShaderCompilers: Display: Shaders left to compile 1123
+[2019.05.22-22.54.18:358][960]LogShaderCompilers: Display: Shaders left to compile 1113
+[2019.05.22-22.54.19:087][988]LogShaderCompilers: Display: Shaders left to compile 1103
+[2019.05.22-22.54.19:618][ 10]LogShaderCompilers: Display: Shaders left to compile 1093
+[2019.05.22-22.54.22:742][151]LogShaderCompilers: Display: Shaders left to compile 1083
+[2019.05.22-22.54.23:022][165]LogShaderCompilers: Display: Shaders left to compile 1073
+[2019.05.22-22.54.23:531][188]LogShaderCompilers: Display: Shaders left to compile 1063
+[2019.05.22-22.54.24:722][241]LogShaderCompilers: Display: Shaders left to compile 1053
+[2019.05.22-22.54.28:104][394]LogShaderCompilers: Display: Shaders left to compile 1043
+[2019.05.22-22.54.28:141][395]LogShaderCompilers: Display: Shaders left to compile 1033
+[2019.05.22-22.54.29:040][440]LogShaderCompilers: Display: Shaders left to compile 1023
+[2019.05.22-22.54.29:898][483]LogShaderCompilers: Display: Shaders left to compile 1013
+[2019.05.22-22.54.32:690][592]LogShaderCompilers: Display: Shaders left to compile 1003
+[2019.05.22-22.54.34:771][682]LogShaderCompilers: Display: Shaders left to compile 993
+[2019.05.22-22.54.34:895][688]LogShaderCompilers: Display: Shaders left to compile 983
+[2019.05.22-22.54.35:131][699]LogShaderCompilers: Display: Shaders left to compile 973
+[2019.05.22-22.54.38:689][857]LogShaderCompilers: Display: Shaders left to compile 963
+[2019.05.22-22.54.38:997][872]LogShaderCompilers: Display: Shaders left to compile 953
+[2019.05.22-22.54.39:053][875]LogShaderCompilers: Display: Shaders left to compile 943
+[2019.05.22-22.54.40:905][964]LogShaderCompilers: Display: Shaders left to compile 933
+[2019.05.22-22.54.43:963][ 98]LogShaderCompilers: Display: Shaders left to compile 923
+[2019.05.22-22.54.44:062][102]LogShaderCompilers: Display: Shaders left to compile 913
+[2019.05.22-22.54.45:059][146]LogShaderCompilers: Display: Shaders left to compile 903
+[2019.05.22-22.54.45:423][163]LogShaderCompilers: Display: Shaders left to compile 893
+[2019.05.22-22.54.48:268][277]LogShaderCompilers: Display: Shaders left to compile 883
+[2019.05.22-22.54.50:275][364]LogShaderCompilers: Display: Shaders left to compile 873
+[2019.05.22-22.54.50:365][367]LogShaderCompilers: Display: Shaders left to compile 863
+[2019.05.22-22.54.51:001][395]LogShaderCompilers: Display: Shaders left to compile 853
+[2019.05.22-22.54.55:108][570]LogShaderCompilers: Display: Shaders left to compile 843
+[2019.05.22-22.54.55:172][573]LogShaderCompilers: Display: Shaders left to compile 833
+[2019.05.22-22.54.56:152][618]LogShaderCompilers: Display: Shaders left to compile 823
+[2019.05.22-22.54.57:557][684]LogShaderCompilers: Display: Shaders left to compile 813
+[2019.05.22-22.55.00:797][828]LogShaderCompilers: Display: Shaders left to compile 803
+[2019.05.22-22.55.01:608][869]LogShaderCompilers: Display: Shaders left to compile 793
+[2019.05.22-22.55.03:504][947]LogShaderCompilers: Display: Shaders left to compile 783
+[2019.05.22-22.55.04:755][  7]LogShaderCompilers: Display: Shaders left to compile 773
+[2019.05.22-22.55.06:903][109]LogShaderCompilers: Display: Shaders left to compile 763
+[2019.05.22-22.55.08:591][171]LogShaderCompilers: Display: Shaders left to compile 753
+[2019.05.22-22.55.09:627][217]LogShaderCompilers: Display: Shaders left to compile 743
+[2019.05.22-22.55.10:269][246]LogShaderCompilers: Display: Shaders left to compile 733
+[2019.05.22-22.55.13:336][382]LogShaderCompilers: Display: Shaders left to compile 723
+[2019.05.22-22.55.13:897][406]LogShaderCompilers: Display: Shaders left to compile 713
+[2019.05.22-22.55.14:502][426]LogShaderCompilers: Display: Shaders left to compile 703
+[2019.05.22-22.55.16:327][512]LogShaderCompilers: Display: Shaders left to compile 693
+[2019.05.22-22.55.20:903][718]LogShaderCompilers: Display: Shaders left to compile 683
+[2019.05.22-22.55.22:228][772]LogShaderCompilers: Display: Shaders left to compile 673
+[2019.05.22-22.55.24:423][869]LogShaderCompilers: Display: Shaders left to compile 663
+[2019.05.22-22.55.26:251][946]LogShaderCompilers: Display: Shaders left to compile 653
+[2019.05.22-22.55.29:476][ 87]LogShaderCompilers: Display: Shaders left to compile 643
+[2019.05.22-22.55.31:471][167]LogShaderCompilers: Display: Shaders left to compile 633
+[2019.05.22-22.55.33:893][283]LogShaderCompilers: Display: Shaders left to compile 623
+[2019.05.22-22.55.34:584][316]LogShaderCompilers: Display: Shaders left to compile 613
+[2019.05.22-22.55.36:033][385]LogShaderCompilers: Display: Shaders left to compile 603
+[2019.05.22-22.55.40:267][571]LogShaderCompilers: Display: Shaders left to compile 593
+[2019.05.22-22.55.40:911][600]LogShaderCompilers: Display: Shaders left to compile 583
+[2019.05.22-22.55.43:514][720]LogShaderCompilers: Display: Shaders left to compile 573
+[2019.05.22-22.55.45:850][820]LogShaderCompilers: Display: Shaders left to compile 563
+[2019.05.22-22.55.48:372][933]LogShaderCompilers: Display: Shaders left to compile 553
+[2019.05.22-22.55.48:701][948]LogShaderCompilers: Display: Shaders left to compile 543
